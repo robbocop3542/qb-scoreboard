@@ -28,54 +28,54 @@ Config.IllegalActions = {
         busy = false,
     },
     ["houserob"] = {
-        minimum = 2,
+        minimum = 0,
         busy = false,
     },	
     ["fleecarob"] = {
-        minimum = 4,
+        minimum = 2,
         busy = false,
     },
-    ["poletorob"] = {
+    ["coming soon"] = {
         minimum = 1,
         busy = false,
     },
     ["jewellery"] = {
-        minimum = 3,
-        busy = false,
-    },
-    ["casinorob"] = {
-        minimum = 1,
-        busy = false,
-    },
-    ["subrob"] = {
-        minimum = 1,
-        busy = false,
-    },
-    ["atmrob"] = {
         minimum = 2,
         busy = false,
     },
-    ["phonerob"] = {
-        minimum = 3,
-        busy = false,
-    },
-    ["humanlabrob"] = {
+    ["coming soon"] = {
         minimum = 1,
         busy = false,
     },
-    ["ciarob"] = {
+    ["coming soon"] = {
+        minimum = 1,
+        busy = false,
+    },
+    ["coming soon"] = {
+        minimum = 2,
+        busy = false,
+    },
+    ["coming soon"] = {
+        minimum = 3,
+        busy = false,
+    },
+    ["coming soon"] = {
+        minimum = 1,
+        busy = false,
+    },
+    ["coming soon"] = {
         minimum = 1,
         busy = false,
     },
     ["pacific"] = {
-        minimum = 6,
+        minimum = 3,
         busy = false,
     },
     ["policerob"] = {
         minimum = 4,
         busy = false,
     },
-    ["kidnap"] = {
+    ["coming soon"] = {
         minimum = 2,
         busy = false,
     },
@@ -87,7 +87,7 @@ Config.IllegalActions = {
         minimum = 1,
         busy = false,
     },
-	["soon"] = {
+	["coming soon"] = {
         minimum = 2,
         busy = false,
     },
